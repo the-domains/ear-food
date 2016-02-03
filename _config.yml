@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#0C0C17'
+    - '#FBFCFD'
+    - '#034B77'
+    - '#91B3C6'
+    - '#4B6E88'
+  rhythmicContrast: 1
+name: 'Ear food '
